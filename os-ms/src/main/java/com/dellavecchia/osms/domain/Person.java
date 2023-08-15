@@ -23,6 +23,7 @@ public abstract class Person {
     private String phone;
 
     public Person() {
+
         super();
     }
 }
